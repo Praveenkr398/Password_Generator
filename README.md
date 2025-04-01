@@ -22,7 +22,7 @@ The **Random Password Generator** is a fully dynamic React-based web application
 ![Random Password Generator](https://github.com/user-attachments/assets/e4471445-8576-4b00-9e52-959158dd5bc8)
 
 
-Category:- "Mini Project, React, Hooks, Tailwind CSS, "
+Category:- "Mini Project, React, Hooks, Tailwind CSS,Top "
 
 ## 📂 Project Structure
 ```
